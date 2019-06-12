@@ -149,7 +149,7 @@ The team set out to design Chowtime to address the problem defined at the very s
 # Usability Testing
 After launching our prototype, the next step we need was to gain metrics as soon as possible in order to improve the performance of the platform. Each member of the team was delegated to conduct usability test using one or more of the methods listed below.
 
-## methods
+## Methods
 The team utilized usability testing methods such as First Click Testing (FCT), System Usability Scale (SUS), AB testing, contextual interviews, user scenarios, and user task analysis.
 
 ![Usability Test](/images/stock-15.png)
