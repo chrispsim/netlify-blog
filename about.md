@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-## Hello, I'm Chris 👋
+# Hello, I'm Chris 👋
 
 I'm a product designer that transforms thorny problems into elegant, functional, and accessible solutions. I'm currently a junior at the University of Washington majoring in Communications and Applied Computing.
 
-### What I'm doing right now 🧐
+## What I'm doing right now 🧐
 **UX/UI Design Intern**  
 Sands Costner & Associates - Tacoma, WA  
 _July - Sep 2019_  
