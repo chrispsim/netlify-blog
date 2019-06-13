@@ -10,15 +10,15 @@ I'm a product designer that transforms thorny problems into elegant, functional,
 
 ## What I'm doing right now 🧐
 **UX/UI Design Intern**  
-Sands Costner & Associates - Greater Seattle Area  
-_July - Sep 2019_  
+Sands Costner & Associates | Greater Seattle Area  
+_Starting in July - Sep 2019_  
 
 **Undergraduate Research Assistant**  
-University of Washington - Seattle, WA  
-_June - Aug 2019_  
+University of Washington | Seattle, WA  
+_June - present_  
 
 **Design Officer & Co-founder**  
-DubUXDA - Tacoma, WA  
+DubUXDA | Tacoma, WA  
 _April - present_  
 
 TLDR; I get paid to move buttons 😎
