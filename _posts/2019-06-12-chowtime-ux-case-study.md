@@ -9,7 +9,7 @@ Team: Christopher Sim, Isaiah Thao, Louis Kim, Lea Fiolek
 
 Faculty Advisor: Professor Emma Rose  
 
-Timeline: 5 Months, January - May 2019
+Timeline: 3 Months, January - March 2019
 
 Tools: Sketch, Figma, XD, Photoshop, Illustrator, Premier Pro, Rotato, InVision Studio, FlatUIColors, FlatIcons, Google Fonts, CleanMock, Sticky Notes 📃 and Coffee ☕️
 
