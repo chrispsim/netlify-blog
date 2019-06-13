@@ -10,7 +10,7 @@ I'm a product designer that transforms thorny problems into elegant, functional,
 
 ## What I'm doing right now 🧐
 **UX/UI Design Intern**  
-Sands Costner & Associates - Tacoma, WA  
+Sands Costner & Associates - Greater Seattle Area  
 _July - Sep 2019_  
 
 **Undergraduate Research Assistant**  
