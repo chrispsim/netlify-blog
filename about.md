@@ -6,7 +6,7 @@ permalink: /about/
 
 I get paid to move buttons 😎
 
-### Education
+## Education
 **University of Washington - Tacoma, WA**  
 B.A. Communications & Applied Computing  
 _2018 - 2020_  
@@ -14,7 +14,7 @@ _2018 - 2020_
 **UC San Diego Extension - Coursera**  
 Interaction Design Specialization  
 
-### Experience
+## Experience
 **UX/UI Design Intern**  
 Sands Costner & Associates - Tacoma, WA  
 _July - Sep 2019_  
