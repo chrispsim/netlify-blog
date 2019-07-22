@@ -97,8 +97,8 @@ Before diving straight into designing and prototyping the product, the team want
 
 ![Storyboarding](/images/stock-7.png)
 
-## Information Architecture
-Our team considered the information architecture of the product very seriously while we were collaboratively designing the product. We wanted to ensure that we designed a product that is possible to be developed, engineered, and easily maintained. Since the product is designed to be cross-platformed, building the application on a MERN (MongoDB, ExpressJS, React, NodeJS) stack would be the most optimal path because the React framework has cross-development functionality of the web, iOS, and Android. As for our grocery comparison querying API, we have decided to build with Basketful. Building proprietary software requires a hefty amount of budget, hence Basketful provides us an easy hack to the problem as they handle the grocery data and the nitty gritty algorithm. Basketful also charges based on the number of serves, which would help us improve our financials while the product is experiencing downtime.
+## Technology Stack
+Our team considered the technology stack of the product very carefully while we were collaboratively designing the product. We wanted to ensure that we designed a product that is possible to be developed, engineered, and easily maintained. Since the product is designed to be cross-platformed, building the application on a MERN (MongoDB, ExpressJS, React, NodeJS) stack would be the most optimal path because the React framework has cross-development functionality of the web, iOS, and Android. As for our grocery comparison querying API, we have decided to build with Basketful. Building proprietary software requires a hefty amount of budget, hence Basketful provides us an easy hack to the problem as they handle the grocery data and the nitty gritty algorithm. Basketful also charges based on the number of serves, which would help us improve our financials while the product is experiencing downtime.
 
 ![IA](/images/stock-8.png)
 
