@@ -17,7 +17,7 @@ _July - present_
 University of Washington | Greater Seattle Area  
 _June - present_  
 
-**Student Designer (Unpaid)**  
+**Student Designer (Unpaid, For-credit)**  
 University of Washington, Tacoma | Tacoma, WA  
 _July - present_  
 
