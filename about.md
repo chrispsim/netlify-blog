@@ -11,18 +11,18 @@ I'm a product designer and a natural user interface (NUI) researcher that transf
 ## What I'm doing right now 🧐
 **UX/UI Design Intern**  
 Sands Costner & Associates | Greater Seattle Area  
-_July - present_  
+_July, 2019 - present_  
 
 **Undergraduate Research Assistant**  
 University of Washington | Greater Seattle Area  
-_June - present_  
+_June, 2019 - present_  
 
 **Student Designer**  
 Global Innovation and Design Lab | Tacoma, WA  
-_July - present_  
+_July, 2019 - present_  
 
 **HCDE Workshop Mentor**  
 Global Innovation and Design Lab | Tacoma, WA  
-_Starting in Sep - Dec_  
+_Starting in Sep, 2019_  
 
 This site is built using Jekyll with the Athena theme and is deployed on Netlify.
