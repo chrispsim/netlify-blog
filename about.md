@@ -6,7 +6,7 @@ permalink: /about/
 
 # Hello, I'm Chris 👋
 
-I'm a product designer that transforms challenging problems into elegant, functional, and accessible solutions. I'm currently a senior at the University of Washington majoring in Communications and Applied Computing.
+I'm a product designer and a natural user interface (NUI) researcher that transforms challenging problems into elegant, functional, and accessible solutions. I'm currently a senior at the University of Washington majoring in Communications and Applied Computing.
 
 ## What I'm doing right now 🧐
 **UX/UI Design Intern**  
@@ -17,9 +17,12 @@ _July - present_
 University of Washington | Greater Seattle Area  
 _June - present_  
 
-**Student Designer (Unpaid, for-credit)**  
-University of Washington, Tacoma | Tacoma, WA  
+**Student Designer**  
+Global Innovation and Design Lab | Tacoma, WA  
 _July - present_  
 
+**HCDE Workshop Mentor**  
+Global Innovation and Design Lab | Tacoma, WA  
+_Starting in Sep - Dec_  
 
 This site is built using Jekyll with the Athena theme and is deployed on Netlify.
