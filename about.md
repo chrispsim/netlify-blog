@@ -4,25 +4,25 @@ title: About
 permalink: /about/
 ---
 
-# Hello, I'm Chris 👋
+# Hey there, I'm Chris 👋
 
-I'm a product designer and a natural user interface (NUI) researcher that transforms challenging problems into elegant, functional, and accessible solutions. I'm currently a senior at the University of Washington majoring in Communications and Applied Computing.
+I'm an aspiring product designer that transforms challenging problems into elegant, inclusive, and accessible solutions. I'm currently a senior at the University of Washington, Tacoma majoring in Communications with a minor in Applied Computing.
 
 ## What I'm doing right now 🧐
+**Undergraduate Research Assistant**  
+EMAR, University of Washington HCDE | Greater Seattle Area  
+_June, 2019 - present_  
+
 **UX/UI Design Intern**  
 Sands Costner & Associates | Greater Seattle Area  
-_July, 2019 - present_  
-
-**Undergraduate Research Assistant**  
-University of Washington | Greater Seattle Area  
-_June, 2019 - present_  
+_July, 2019 - Sep, 2019_  
 
 **Student Designer**  
 Global Innovation and Design Lab | Tacoma, WA  
-_July, 2019 - present_  
+_July, 2019 - Sep, 2019_  
 
-**HCDE Workshop Mentor**  
+**Design Thinking Workshop Facilitator**  
 Global Innovation and Design Lab | Tacoma, WA  
-_Starting in Sep, 2019_  
+_Sep, 2019 - present_  
 
 This site is built using Jekyll with the Athena theme and is deployed on Netlify.
