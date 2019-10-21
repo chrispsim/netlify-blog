@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EMAR Design Team Goals and Milestone
+title: EMAR Web Team Goals and Milestone
 date: 2019-09-30 14:45 -0700
 ---
 # A social media platform centered around food and a grocery budget tool.
