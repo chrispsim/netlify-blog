@@ -3,7 +3,7 @@ layout: post
 title: GIDL Student Website, UX Case Study
 date: 2019-09-17 14:45 -0700
 ---
-# A social media platform centered around food and a grocery budget tool.
+# Student Website for the new Global Innovation and Design Lab at UWT. Designed for Student by Students.
 
 Team: LaKeisha Morris, Lan Allison, Christopher Sim, Isaiah Thao
 
