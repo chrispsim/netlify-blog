@@ -13,7 +13,7 @@ Timeline: 3 Months, January - March 2019
 
 Tools: Sketch, Figma, XD, Photoshop, Illustrator, Premier Pro, Rotato, InVision Studio, FlatUIColors, FlatIcons, Google Fonts, CleanMock, Sticky Notes 📃 and Coffee ☕️
 
-![Stock UI](/images/stock-1.png)
+![Stock UI](/chowtime/images/stock-1.png)
 
 # Background
 Just like most college students, I only had access to a limited amount of money. Therefore, the micromanagement of my finances was crucial to me of being financially responsible and would prevent me from squandering every penny I have. Recently, while sorting through my expenditures and calculating the savings I made at the end of every month, I found a recurring pattern that piqued my interest. The trend that I noticed is that the total amount of money I was spending on groceries each month seemed to exceed the designated budget. Despite increasing the base budget for groceries, I was still overspending. I soon realized that there were multiple reasons overspending occurs. Partly it was due to my diet for international dishes. Many times international dishes require unique ingredients that could only be sourced from global food markets and are expensive since the ingredients are rather exotic.
@@ -33,12 +33,12 @@ To conduct our user research, we utilized a myriad of UX research methods. We co
 
 After gathering all the data, our team added the data into Google Sheets and analyzed the metrics during our scheduled team meeting.
 
-![Research Methods](/images/stock-2.png)
+![Research Methods](/chowtime/images/stock-2.png)
 
 ## Research Findings
 To provide some insights in regards to our research demographics. We conducted our research with a total of 40 participants, 28 are full-time students at the UW (19 were STEM majors, 3 majored in business, and the rest are liberal arts students), 12 non-UW students (4 are from neighboring schools in the Greater Seattle Area, 4 stay-at-home parents, 4 adults working full-time).
 
-![Chart](/images/stock-3.png)
+![Chart](/chowtime/images/stock-3.png)
 
 After dissecting the data collected, the team found some interesting anomalies. It was almost a consensus from all our participants that they experience a form of overspending in their grocery budget. However, what struck us as interesting was when approached about the current solutions they are practicing to prevent overspending, almost no one from our group of participants said they are currently implementing a solution. Despite the median overspending budget was practically a 15% margin of the overall budget, many of our participants responded that they do not mind the overspending. Some of our participants either found existing solutions too clunky to use or the learning curve is just too steep to justify spending the time, and this is particularly true for college students. Another intriguing find was that many participants would give solutions to address grocery budgeting more thought if only they were incentivized on top of saving money.
 
@@ -60,12 +60,12 @@ It was then it unfolded, design a platform centered around sharing food recipes 
 # How Might We
 After the team validated and scoped our problem statement we started to brainstorm our how might we (HMW) statement. How might we design a medium around food to build a global community while also solving the localized grocery budgeting problem.
 
-![HMW](/images/stock-4.png)
+![HMW](/chowtime/images/stock-4.png)
 
 # User Personas
 Our projected target users for the platform as guided by our research and HMW statement are users who desire a platform to share their culture through food, share their recipes, a tool to budget their groceries and monitor their spending. The team eventually narrowed down to two primary potential users that would utilize our platform for the two primary functions. We named our user personas ‘Felix’ and ‘Aunt Pauline.’ Felix is a junior at UW who has grocery budgeting problems, desire to try new food from around the world, while Aunt Pauline is a stay-at-home mom from Singapore who wants a medium to share her recipes and to an extent her culture.
 
-![User Personas](/images/stock-5.png)
+![User Personas](/chowtime/images/stock-5.png)
 
 ## Persona Segmentation
 After identifying two primary subset of potential target users, the team moved on to segmentate the two groups into smaller subsets within their own category. Felix belongs to the category in which grocery budgeting is the primary goal whereas Aunt Pauline belongs to the category in which the ability to share recipes is the primary goal.
@@ -87,7 +87,7 @@ Despite two groups having different end-user goals, they all have a common pain 
 ## User Journey Map
 The user journey map is our product road map. The team utilized the journey map to visualize the positive and negative points while interacting with our platform, environmental factors and the overall experience of reaching the end-goal of the user. In this user journey map, we follow the journey of Jonathan, he is a father of two and a full-time construction supervisor in Seattle. As noted earlier, all of our user personas have a common pain point which is somewhat financially restricted. At the start of the journey, we see Jonathan began with an inquiry into a problem that is exclusive to him, which then led him to seek out a solution that meant engaging with our platform. After engaging our platform, he chooses our platform as an intervention for his problem. The key thing to note here in this section is that Jonathan is yet to be sure that our platform would result in a positive outcome, thus we see a spectrum of his emotions of his uncertainty. After utilizing our product, Jonathan is pleasant with the platform and has successfully help him achieve his end-user goal. However, he wished the platform had more to offer.
 
-![User Journey Map](/images/stock-6.png)
+![User Journey Map](/chowtime/images/stock-6.png)
 
 # Solution
 Chowtime, a cross-platform application that allows people everywhere to share and experience different, unique cultures through the medium of food. Chowtime will also feature an in-application tool that helps the user with grocery budgeting to prevent overspending.
@@ -95,45 +95,45 @@ Chowtime, a cross-platform application that allows people everywhere to share an
 ## Product Storyboarding
 Before diving straight into designing and prototyping the product, the team wanted to visualize the experience, thus we storyboarded the product experience with our user research participants. The team wanted insights on how our target users envision the experience on using our product versus how we, the creators, envision the experience. During the workshop, the team observed and looked for intersectionalities between our own storyboards and the participants. This exercise helped guide us in designing the features that our users actually need for the final product hence saving on time and resources.
 
-![Storyboarding](/images/stock-7.png)
+![Storyboarding](/chowtime/images/stock-7.png)
 
 ## Technology Stack
 Our team considered the technology stack of the product very carefully while we were collaboratively designing the product. We wanted to ensure that we designed a product that is possible to be developed, engineered, and easily maintained. Since the product is designed to be cross-platformed, building the application on a MERN (MongoDB, ExpressJS, React, NodeJS) stack would be the most optimal path because the React framework has cross-development functionality of the web, iOS, and Android. As for our grocery comparison querying API, we have decided to build with Basketful. Building proprietary software requires a hefty amount of budget, hence Basketful provides us an easy hack to the problem as they handle the grocery data and the nitty gritty algorithm. Basketful also charges based on the number of serves, which would help us improve our financials while the product is experiencing downtime.
 
-![IA](/images/stock-8.png)
+![IA](/chowtime/images/stock-8.png)
 
-![Tech Stack](/images/stock-9.png)
+![Tech Stack](/chowtime/images/stock-9.png)
 
 ## Low-fidelity Prototype
 During the time while the team was ideating the application on sketches, we were introduced the method of collaborative sketching from our advisor, Professor Emma Rose in week 7 of the user-centered design class. The team tried the method and we absolutely loved it so we moved on to implement the method from there on out. The team loved that we were able to iterate our designs as a cohesive team and by using the collaborative sketching methodology, we sped up our production rate by almost 10x while doing it individually.
 
-![Sketch-1](/images/stock-10.png)
+![Sketch-1](/chowtime/images/stock-10.png)
 
-![Sketch-2](/images/stock-11.png)
+![Sketch-2](/chowtime/images/stock-11.png)
 
-![Sketch-3](/images/stock-12.png)
+![Sketch-3](/chowtime/images/stock-12.png)
 
 ## Wireframes
 After sketching our low-fidelity prototype, identifying the design constraints, and consulting with our advisor, we moved on to developing wireframes for the product as we move closer to prototyping the high-fidelity version of the product.
 
-![Wireframes-1](/images/stock-13.png)
+![Wireframes-1](/chowtime/images/stock-13.png)
 
-![Wireframes-2](/images/stock-14.png)
+![Wireframes-2](/chowtime/images/stock-14.png)
 
 While half of the team was wireframing the interface of the product, the other half worked on selecting typography, design languages for iconography, and color templates for our application. The team also consulted the Accessibility chapter of Google’s Material Design documentation to ensure our designs adhere to W3C’s accessibility standards and is inclusive to a wide range of users.
 
 ## High-fidelity prototype
 The team designed the iconography, the logo, editing of stock images using Adobe Illustrator and Photoshop. Stock images were sourced from Unsplash and the color template reference index was sourced from Adobe Color. The product uses the Roboto typography throughout the application. The fonts were sourced from Adobe Fonts. The team used Sketch, Adobe XD, and Figma to prototype the product, adding functionality to core features, providing the illusion of an actual working product for usability testing later down the road. Finally, we used Rotato to get 3D animation shots of the prototype and post-produced everything in Adobe Premier Pro. [Watch the product video here](https://www.youtube.com/watch?v=OeJFiFDooGM).
 
-![Prototype-1](/images/design-1.png)
+![Prototype-1](/chowtime/images/design-1.png)
 
-![Prototype-2](/images/design-2.png)
+![Prototype-2](/chowtime/images/design-2.png)
 
-![Prototype-3](/images/design-3.png)
+![Prototype-3](/chowtime/images/design-3.png)
 
-![Prototype-4](/images/design-4.png)
+![Prototype-4](/chowtime/images/design-4.png)
 
-![Prototype-5](/images/design-5.png)
+![Prototype-5](/chowtime/images/design-5.png)
 
 ## Product features
 The team set out to design Chowtime to address the problem defined at the very start directly. We wanted to design a brand-new platform without breaking the wheel. Thus, we designed a platform that is different but familiar, engaging, but not intimidating. Listed below are the core-features of Chowtime:
@@ -152,7 +152,7 @@ After launching our prototype, the next step we need was to gain metrics as soon
 ## Methods
 The team utilized usability testing methods such as First Click Testing (FCT), System Usability Scale (SUS), AB testing, contextual interviews, user scenarios, and user task analysis.
 
-![Usability Test](/images/stock-15.png)
+![Usability Test](/chowtime/images/stock-15.png)
 
 ## Findings and sorting
 Chowtime gained a massive amount of feedback, ranging from the next revolutionary product to I don’t see myself using this product. Usability tests can sometimes be absolutely gut retching due to negative critique on a product that we spend copious amount of time working on. In order to improve the product, we needed to listen to our users but needed to be objective about the feature requests.
