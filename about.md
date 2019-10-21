@@ -13,6 +13,10 @@ I'm an aspiring product designer that transforms challenging problems into elega
 EMAR, University of Washington HCDE | Greater Seattle Area  
 _June, 2019 - present_  
 
+**Design Thinking Workshop Facilitator**  
+Global Innovation and Design Lab | Tacoma, WA  
+_Sep, 2019 - present_  
+
 **UX/UI Design Intern**  
 Sands Costner & Associates | Greater Seattle Area  
 _July, 2019 - Sep, 2019_  
@@ -20,9 +24,5 @@ _July, 2019 - Sep, 2019_
 **Student Designer**  
 Global Innovation and Design Lab | Tacoma, WA  
 _July, 2019 - Sep, 2019_  
-
-**Design Thinking Workshop Facilitator**  
-Global Innovation and Design Lab | Tacoma, WA  
-_Sep, 2019 - present_  
 
 This site is built using Jekyll with the Athena theme and is deployed on Netlify.

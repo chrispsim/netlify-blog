@@ -16,7 +16,7 @@
 title: Christopher Sim
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This blog is just a facade for the real website which is currently under-construction. Check back soon 👋.
+  This blog is a facade for my portfolio website which is currently under-construction. Check back soon 👋. Please contact me (psim97 at uw dot edu) for portfolio pieces.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.chrispjsim.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: psim97

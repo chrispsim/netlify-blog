@@ -7,7 +7,7 @@ date: 2019-05-31 14:45 -0700
 
 Team: Christopher Sim, Isaiah Thao, Louis Kim, Lea Fiolek  
 
-Faculty Advisor: Professor Emma Rose  
+Faculty Advisor: Dr. Emma J Rose  
 
 Timeline: 3 Months, January - March 2019
 
