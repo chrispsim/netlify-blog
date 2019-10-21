@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Remote VS On-site
-date: 2019-05-31 14:45 -0700
+date: 2019-10-12 14:45 -0700
 ---
 # A social media platform centered around food and a grocery budget tool.
 

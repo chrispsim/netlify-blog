@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Experience as a UX/UI Design Intern at a Design Agency
-date: 2019-05-31 14:45 -0700
+date: 2019-09-29 14:45 -0700
 ---
 # A social media platform centered around food and a grocery budget tool.
 
